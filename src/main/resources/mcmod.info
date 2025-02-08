@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "${modId}",
+    "name": "${modName}",
+    "description": "Minimalistic Functional Unit Plates for the modern Minecrafter",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "logoFile": "",
+    "url": "http://www.vazkii.us",
+    "updateUrl": "",
+    "authorList": [
+      "Vazkii"
+    ],
+    "credits": "",
+    "parent": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

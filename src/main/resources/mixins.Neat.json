@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "vazkii.neat.mixin.mixins",
+  "plugin": "vazkii.neat.mixin.plugin.MixinPlugin",
+  "refmap": "mixins.Neat.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [],
+  "server": []
+}
